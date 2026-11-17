@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 edit 1
 edit2
+=======
+edit 1edit2
+>>>>>>> b0d2d81 (save)
